@@ -1,44 +1,34 @@
 <!-- Kevin GitHub Profile -->
-<div align="justify">
+<div align="center">
 
-    <!-- Profile -->
-    <p align="left"><strong><samp>「</samp></strong></p>
-      <p align="center">
-        <samp>
-          <b>
-            hola a tos
-          <br>
-                Soy kevin estudnate de segundo de bachillareto. espero que sus guste
-          </b>
-          <br>
-            <image src="https://readme-typing-svg.herokuapp.com/demo/?lines=programo+programas+aesteticos+y+bonitos">
-          <br>
-          <b>
-            ~ <del>Alejandro Jordán Durán </del> Kevin González Sánchez~
-          </b>
-        </samp>
-      </p>
-    
-    <br>
-    
-    <!-- Contact Me -->
-    <p align="center">
-      <samp>
-        [<a href="https://twitter.com/Er_SCR4T3">twitter</a>]
-        [<a href="https://www.instagram.com/alejandrojordanduran_/">instagram</a>]
-        [<a href="jordanduranalejandro@gmail.com">e-mail</a>]
-      </samp>
-    </p>
-    <p align="right"><strong><samp>」</samp></strong></p>
-    </div>
+  <!-- Introducción -->
+  <p>
+    <samp>
+      🎉 <b>¡Hola a todos!</b> 🎉
+      <br>
+      <i>Soy Kevin, estudiante de segundo de bachillerato.</i>
+      <br>
+      Espero que les guste mi perfil. 🖤
+    </samp>
+  </p>
 
+  <!-- Texto animado -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F7009B&center=true&vCenter=true&lines=Hola+Kevin!;Soy+un+programador+creativo;Bienvenidos+a+mi+perfil!" alt="Typing SVG">
+  
+  <br><br>
 
+  <!-- Contacto -->
+  <p>
+    <samp>
+      🌐 [<a href="https://twitter.com/Er_SCR4T3">Twitter</a>] 
+      📷 [<a href="https://www.instagram.com/alejandrojordanduran_/">Instagram</a>] 
+      📧 [<a href="mailto:jordanduranalejandro@gmail.com">E-mail</a>]
+    </samp>
+  </p>
 
+  <!-- Firma -->
+  <p>
+    <b>~ Kevin González Sánchez ~</b>
+  </p>
 
-
-
-
-
-
-
-
+</div>
