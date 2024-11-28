@@ -4,16 +4,16 @@
   <!-- Introducción -->
   <p>
     <samp>
-      🎉 <b>¡Hola a todos!</b> 🎉
+      🎉 <b>hola a tos</b> 🎉
       <br>
-      <i>Soy Kevin, estudiante de segundo de bachillerato.</i>
+      <i>Soy kevin estudnate de segundo de bachillareto. espero que sus guste.</i>
       <br>
       Espero que les guste mi perfil. 🖤
     </samp>
   </p>
 
   <!-- Texto animado -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F7009B&center=true&vCenter=true&lines=Hola+Kevin!;Soy+un+programador+creativo;Bienvenidos+a+mi+perfil!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F7009B&center=true&vCenter=true&lines=Hola+Kevin!;Soy+un+programador+creativo;programo programas aesteticos y bonitoo" alt="Typing SVG">
   
   <br><br>
 
@@ -28,7 +28,7 @@
 
   <!-- Firma -->
   <p>
-    <b>~ Kevin González Sánchez ~</b>
+    <b>~ <del>  Kevin González Sánchez </del> ~</b>
   </p>
 
 </div>
