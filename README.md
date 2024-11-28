@@ -4,14 +4,14 @@
   <!-- Introducción -->
   <p>
     <samp>
-      🎉 <b>hola a tos</b> 🎉
       <br>
-      <i>Soy kevin estudnate de segundo de bachillareto. espero que sus guste.</i>
+      i hope you find some piece of mind 
+      <i>.</i>
     </samp>
   </p>
 
   <!-- Texto animado -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F7009B&center=true&vCenter=true&lines=programo+programas+aesteticos+y+bonito" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F7009B&center=true&vCenter=true&lines=i hope you find some piece of mind " alt="Typing SVG">
   
   <br><br>
 
