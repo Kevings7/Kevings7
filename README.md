@@ -11,7 +11,7 @@
   </p>
 
   <!-- Texto animado -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F7009B&center=true&vCenter=true&lines=Hola+Kevin!;Soy+un+programador+creativo;programo+programas+aesteticos+y+bonito" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=F7009B&center=true&vCenter=true&lines=programo+programas+aesteticos+y+bonito" alt="Typing SVG">
   
   <br><br>
 
